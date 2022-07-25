@@ -12,11 +12,11 @@ class Main extends Component {
     render() {
         return (
             <div id='main'>
-                {this.state.list.map(n =>
+                {this.state.list.map(element =>
                     <HornedBeast
-                        title={navigator.title}
-                        image-url={navigator.image_url}
-                        description={navigator.description} />
+                        title={element.title}
+                        image-url={element.image_url}
+                        description={element.description} />
                     )}
             </div>
         )

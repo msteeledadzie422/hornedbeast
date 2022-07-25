@@ -12,14 +12,13 @@ class HornedBeast extends Component {
   }
 
   handleClick = (e) => {
-    this.setState({votes: this.state.votes+1});
-    console.log(this,this.state.votes);
+    this.setState({votes: this.state.votes + 1});
   }
 
   render() {
     return(
       <Card style={{ width: '20rem'}}>
-        <Card.Img variant="top" src={this.props.image_url} />
+        <Card.Img variant="top" src={this.props.image_url} alt={this.props.title} />
         <Card.Body>
           <Card.Title>{this.props.title}</Card.Title>
           <Card.Text>{this.props.description}</Card.Text>
