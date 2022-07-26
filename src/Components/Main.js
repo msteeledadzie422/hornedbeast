@@ -12,7 +12,7 @@ class Main extends Component {
     render() {
         return (
             <div id='main'>
-                {this.state.list.map(element =>
+                {this.state.beastList.map(element =>
                     <HornedBeast
                         title={element.title}
                         image-url={element.image_url}
