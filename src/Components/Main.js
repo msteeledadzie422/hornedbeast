@@ -15,7 +15,7 @@ class Main extends Component {
                 {this.state.beastList.map(element =>
                     <HornedBeast
                         title={element.title}
-                        image-url={element.image_url}
+                        image_url={element.image_url}
                         description={element.description} />
                     )}
             </div>
