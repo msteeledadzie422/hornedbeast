@@ -1,8 +1,13 @@
 import './App.css';
+import Header from './Components/Header';
+import Main from './Components/Main';
+import Footer from './Components/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
     <div className="App">
+<<<<<<< HEAD
       <header className="App-header">
         <p>
           Edit <code>src/App.js</code> and save to reload.
@@ -16,6 +21,11 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+      <Header />
+      <Main />
+      <Footer />    
+>>>>>>> 71160c680dcbf7bbb90d742395d7e9b4e2d8108a
     </div>
   );
 }
