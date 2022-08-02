@@ -7,6 +7,7 @@ import { Component } from "react";
 import list from './data.json';
 import SelectedBeast from './Components/SelectedBeast'
 
+
 class App extends Component {
   constructor(props) {
     super(props)
@@ -44,6 +45,5 @@ class App extends Component {
       </div>
     );
   }
-}
 
 export default App;
