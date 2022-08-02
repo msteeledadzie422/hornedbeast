@@ -4,11 +4,11 @@ Number and name of feature: Connecting Main to data.json, rendering images
 
 Estimate of time needed to complete: 2 hours
 
-Start time: 4pm
+Start time: 9pm
 
-Finish time: 6pm
+Finish time: 12:30am
 
-Actual time needed to complete: 2 hours (spanning two days)
+Actual time needed to complete: 3.5 hours
 
 # Getting Started with Create React App
 
