@@ -10,6 +10,30 @@ Finish time: 12:30am
 
 Actual time needed to complete: 3.5 hours
 
+----------------------------------------------------------------
+
+Number and name of feature: adding modal to display selected beasts
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 9pm
+
+Finish time: 12:30am
+
+Actual time needed to complete: 3.5 hours
+
+----------------------------------------------------------------
+
+Number and name of feature: added form to filter beasts by number of Horns
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 9pm
+
+Finish time: 12am
+
+Actual time needed to complete: 3 hours
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
